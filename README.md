@@ -40,4 +40,4 @@ npm start
 - LinkedIn: [aishwarya-hadagali](https://www.linkedin.com/in/aishwarya-hadagali)
 - GitHub: [aishwarya-hadagali](https://github.com/aishwarya-hadagali)
 - ## Live Demo
-[Click here](https://your-todo-app-link.netlify.app)
+[Click here](aishwarya-todo-app.netlify.app)
